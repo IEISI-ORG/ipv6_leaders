@@ -60,3 +60,7 @@
 *.POTM
 *.PDF
 
+# If NPM adds things by accident ... again ... 
+node_modules/
+package.json 
+package-lock.json 
