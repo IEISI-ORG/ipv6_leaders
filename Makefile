@@ -31,5 +31,11 @@ ipv6-marp-slide-deck.pptx: ipv6-marp-slide-deck.md images
 ipv6-marp-slide-deck.pdf: ipv6-marp-slide-deck.md images
 	marp --allow-local-files --pdf ipv6-marp-slide-deck.md
 
-all: ipv6-marp-slide-deck.pptx ipv6-marp-slide-deck.pdf ipv6-marp-slide-deck.html
+ipv6-board-briefing.html: ipv6-board-briefing.md
+	marp --allow-local-files --html ipv6-board-briefing.md
+
+ipv6-board-briefing.pdf: ipv6-board-briefing.md
+	marp --allow-local-files --pdf ipv6-board-briefing.md
+
+all: ipv6-marp-slide-deck.pptx ipv6-marp-slide-deck.pdf ipv6-marp-slide-deck.html ipv6-board-briefing.html ipv6-board-briefing.pdf
 

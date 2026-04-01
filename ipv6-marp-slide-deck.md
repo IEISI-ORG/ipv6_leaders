@@ -3,7 +3,7 @@ marp: true
 theme: academic
 paginate: true
 header: "IPv6 for Leaders Workshop"
-footer: "© 2025 APNIC: CC BY-NC-SA 4.0 | tcs@apnic.net | about.me/terry.sweetser"
+footer: "© 2025 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
 ---
 
 <!-- 
