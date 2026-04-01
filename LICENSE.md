@@ -36,3 +36,6 @@ Terry Sweetser through IEISI (www.ieisi.org).
 
 Contact: tcs@ieisi.org
 Training: www.ieisi.org/training
+
+If you find this material useful, you can support Terry's work directly:
+https://buymeacoffee.com/terrysweetser
