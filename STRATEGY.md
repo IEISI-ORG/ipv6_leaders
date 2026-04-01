@@ -37,9 +37,10 @@
   - Slides 28-29: Case studies of IPv6 supporting sustainability
   - Slide 30: Self-assessment: "Where is your organization on the SDG+IPv6 matrix?"
 
-- **Section 6: Multi-Stakeholder Model and IPv6 Governance** (10 minutes)
-  - Slides 31-32: Internet governance framework overview
-  - Slides 33-34: Key players in the IPv6 ecosystem
+- **Section 6: Internet Governance — How the Internet Is Run** (15 minutes)
+  - Slide 31: How the Internet is governed — multi-stakeholder model, no single owner
+  - Slide 32: Key players — ICANN, IETF, RIRs, IGF, national task forces
+  - Slide 33: Why this matters to leaders — policy, sovereignty, Pacific representation
 
 ### 1:15 PM - 2:00 PM (45 minutes)
 - **Interactive Discussion #1: "IPv6 Readiness Assessment"** (35 minutes)

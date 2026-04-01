@@ -332,30 +332,47 @@ https://www.google.com/intl/en/ipv6/statistics.html
 
 ---
 
-## Internet Governance Framework
+## How the Internet Is Governed
 
-- Multi-stakeholder model vs. traditional approaches
-- Key principles:
-  - Bottom-up coordination
-  - Transparency
-  - Consensus-based decision making
-  - Technical community leadership
-  - Cross-sector participation
+<style scoped>
+li { font-size: 0.85em; }
+</style>
 
-<!-- [IMAGE PLACEHOLDER: Multi-stakeholder model diagram] -->
+- The Internet has no single owner, government, or regulator
+- It runs on **voluntary consensus standards** — organisations that agree to interoperate
+- Governance is **multi-stakeholder**: technical community, governments, civil society, and private sector all have a voice
+- This is different from most infrastructure — it is deliberately not controlled by any one nation or company
+- Key forums: **ICANN**, **IETF**, **Internet Governance Forum (IGF)**, **Regional Internet Registries**
+
+> Understanding this system helps leaders make better decisions about where influence, risk, and policy levers actually are.
 
 ---
 
-## Key Players in IPv6 Governance
+## Key Players and What They Do
 
-- Internet Corporation for Assigned Names and Numbers (ICANN)
-- Internet Engineering Task Force (IETF)
-- Regional Internet Registries (RIRs)
-  - APNIC, ARIN, RIPE NCC, LACNIC, AFRINIC
-- National IPv6 task forces
-- Network operator groups
+<style scoped>
+table { font-size: 0.82em; }
+</style>
 
-<!-- [IMAGE PLACEHOLDER: Ecosystem of IPv6 governance organizations] -->
+| Organisation | Role |
+|---|---|
+| **ICANN** | Coordinates domain names, IP address policy, and root DNS — the "address book" of the Internet |
+| **IETF** | Develops open technical standards, including IPv6 (RFC 8200) — no membership fee, anyone can participate |
+| **RIRs** (APNIC, ARIN, RIPE NCC, LACNIC, AFRINIC) | Allocate IP address space regionally; your organisation gets addresses through them or your ISP |
+| **Internet Governance Forum (IGF)** | UN-convened annual forum — governments, business, and civil society discuss Internet policy |
+| **National task forces / NOGs** | Local coordination bodies; often the best entry point for regional operators |
+
+---
+
+## Why This Matters to Leaders
+
+- **Policy is made here** — address policy, routing security, and naming rules all come from these bodies
+- **Your voice counts** — ICANN and IETF are open processes; Pacific operators are underrepresented
+- **Sovereignty questions** — debates about Internet fragmentation ("splinternet") are active in the IGF
+- **IPv6 is a governance issue, not just a technical one** — who gets addresses, at what cost, under what rules
+- APNIC membership gives your organisation a direct stake in regional policy decisions
+
+> The organisations setting Internet rules are accessible. The question is whether you are at the table.
 
 ---
 
