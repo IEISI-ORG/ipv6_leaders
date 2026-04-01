@@ -77,7 +77,7 @@
 
 - **Section 12: Learning & Development Strategy for IPv6** (15 minutes)
   - Slides 61-62: Building a competency framework
-  - Slides 63-64: APNIC and NGO resource utilization
+  - Slides 63-64: External training resources and NGO ecosystem
   - Slide 65: Knowledge sharing best practices
 
 ### 3:30 PM - 3:55 PM (25 minutes)

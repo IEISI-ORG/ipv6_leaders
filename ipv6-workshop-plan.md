@@ -80,7 +80,7 @@
 
 ### 12. Learning & Development Strategy for IPv6
 - Building an IPv6 competency framework for your organization
-- Maximizing value from APNIC training resources and workshops
-- Leveraging free and low-cost NGO resources (ISOC, IETF, regional NOGs)
+- Navigating external training resources: APNIC Academy, NSRC, RIPE NCC Academy
+- Leveraging free and low-cost NGO resources (Internet Society, IETF, regional NOGs)
 - Creating internal knowledge sharing mechanisms
 - Developing executive-to-technical translation capabilities
