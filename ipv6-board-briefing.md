@@ -40,7 +40,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 # Section 1: The Internet's Address Crisis
 
 ---
-![bg right:38%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Huston_rir_ipv4_exhaustion_projection.png/800px-Huston_rir_ipv4_exhaustion_projection.png)
+![bg right:38%](images/huston_rir_exhaustion.png)
 
 ## The Internet Has Run Out of Addresses
 
@@ -79,7 +79,7 @@ table { font-size: 0.85em; }
 > IPv6 was designed to solve this problem and has been production-ready for over a decade.
 
 ---
-![bg right:30%](https://picsum.photos/800?image=6)
+![bg width:700 bottom:30%](images/ipv6_risks.png)
 
 ## What Your Organisation Is Probably Already Doing
 
