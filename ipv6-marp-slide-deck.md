@@ -640,6 +640,10 @@ Staff readiness | Transition mechanism selection
 
 ---
 
+<!-- _header: "" -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
+
 ![bg](images/training_hubs.png)
 
 ---
