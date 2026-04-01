@@ -3,18 +3,18 @@
 ## Board Briefing (`ipv6-board-briefing.md`)
 
 - [ ] **#1** Replace `picsum.photos` placeholder images on pages 2, 4, 6, 17, 23
-- [ ] **#2** Fix "NAT Is Not Security" heading: H1 → H2
-- [ ] **#3** Remove stale `<!-- _class: lead -->` directive from "From Scarcity to Abundance" table slide
+- [x] **#2** Fix "NAT Is Not Security" heading: H1 → H2
+- [x] **#3** Remove stale `<!-- _class: lead -->` directive from "From Scarcity to Abundance" table slide
 - [ ] **#16** `academic.css` — blockquote absolute positioning may overlap `<small>` citation lines on some slides
 
 ## Workshop Deck (`ipv6-marp-slide-deck.md`)
 
-- [ ] **#4** Update footer year: 2025 → 2026
-- [ ] **#5** Replace APNIC logo (`APNIC-Formal-Logo_web.jpg`) with `images/apac_logo.png` (circular crop, matching board briefing)
-- [ ] **#6** Update stale adoption stats: global ~40% → ~43%, IPv4 prices $50–60 → ~$20
+- [x] **#4** Update footer year: 2025 → 2026
+- [x] **#5** Replace APNIC logo (`APNIC-Formal-Logo_web.jpg`) with `images/apac_logo.png` (circular crop, matching board briefing)
+- [x] **#6** Update stale adoption stats: global ~40% → ~43%, IPv4 prices $50–60 → ~$20
 - [ ] **#7** Verify image files exist — missing: `images/headers.gif`, `images/hilco.png`, `images/apnic_ipv6_rural_cropped.png`; captures require `make images`
-- [ ] **#8** Add IEISI contact and resources to closing slide (tcs@ieisi.org, www.ieisi.org/training, Medium articles)
-- [ ] **#9** Incorporate Medium article insights: IPv4 price trajectory, "laziness tax", IPv6-mandatory policy direction
+- [x] **#8** Add IEISI contact and resources to closing slide (tcs@ieisi.org, www.ieisi.org/training, Medium articles)
+- [x] **#9** Incorporate Medium article insights: IPv4 price trajectory, "laziness tax", IPv6-mandatory policy direction
 
 ## Supporting Docs
 
@@ -22,9 +22,9 @@
 
 ## APNIC References to Fix
 
-- [ ] `ipv6-marp-slide-deck.md` line 14 — `APNIC-Formal-Logo_web.jpg` on title slide (covered by #5)
-- [ ] `ipv6-marp-slide-deck.md` lines 622–634 — "APNIC and NGO Resources" slide: reframe APNIC training as an external resource, not host offering
-- [ ] `ipv6-marp-slide-deck.md` line 669 — "APNIC IPv6 Program" only resource link: add IEISI training reference
+- [x] `ipv6-marp-slide-deck.md` line 14 — `APNIC-Formal-Logo_web.jpg` on title slide (covered by #5)
+- [x] `ipv6-marp-slide-deck.md` lines 622–634 — "APNIC and NGO Resources" slide: reframe APNIC training as an external resource, not host offering
+- [x] `ipv6-marp-slide-deck.md` line 669 — "APNIC IPv6 Program" only resource link: add IEISI training reference
 - [ ] `ipv6-workshop-plan.md` line 83 — "Maximizing value from APNIC training resources" → reframe as external resource
 
 ## Completed

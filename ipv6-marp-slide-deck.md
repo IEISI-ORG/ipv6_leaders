@@ -3,7 +3,7 @@ marp: true
 theme: academic
 paginate: true
 header: "IPv6 for Leaders Workshop"
-footer: "© 2025 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
+footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
 ---
 
 <!-- 
@@ -11,7 +11,12 @@ MARP Slide Deck for IPv6 for Leaders Workshop
 Each slide is designed with appropriate content density
 Image placeholders are included where visuals would enhance the content
 -->
-![bg fit left:33%](APNIC-Formal-Logo_web.jpg)
+<style scoped>
+h1, h3 { margin-left: 240px; }
+img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
+</style>
+
+<img class="logo" src="images/apac_logo.png">
 
 # IPv6 for Leaders
 ### A Strategic Guide for Decision Makers
@@ -132,10 +137,12 @@ Image placeholders are included where visuals would enhance the content
 ## The Growth Problem
 
 - IPv4 scarcity as barrier to internet growth
-- Rising costs of IPv4 addresses ($50-60 per address)
-- Service degradation from address sharing
-- Impact on developing regions and new entrants
-- Connection between IPv6 and digital inclusion
+- IPv4 address prices: **$60+ (2022 peak) → ~$20 (2025)** — and still falling
+- Service degradation from address sharing (CGNAT)
+- Early-adopting regions hold vast legacy allocations — late adopters pay the "laziness tax"
+- IPv6 eliminates regional inequity: **IPv4 slows down growth. IPv6 enables it.**
+
+<small>_Source: [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
 
 ---
 ![](captures/apnic_labs_reliance_jio.png)
@@ -219,10 +226,11 @@ Image placeholders are included where visuals would enhance the content
 
 ## Global and Regional Adoption Trends
 
-- Current global IPv6 adoption: ~40% (varies by measurement method)
-- Leading countries: India, Belgium, Germany, USA
+- Current global IPv6 adoption: **~43%** capable (APNIC Labs, March 2026)
+- Leading countries: India (~78%), France (~86%), Germany (~74%), USA (~59%)
 - Leading regions: South Asia, Europe, North America
-- Mobile networks driving much of the adoption
+- Mobile networks driving much of the adoption (Reliance Jio: India's leap)
+- Pacific Islands: early stage — first-mover opportunity
 - Wide variation in enterprise adoption
 
 ---
@@ -619,19 +627,16 @@ Staff readiness | Transition mechanism selection
 
 ---
 
-## APNIC and NGO Resources
+## External Training & NGO Resources
 
-- APNIC training offerings:
-  - In-person workshops
-  - Online courses
-  - Lab environments
-  - Certification programs
-- Internet Society resources
-- Regional NOG events
-- Open educational materials
-- Community support
+- **APNIC Academy** — academy.apnic.net
+  - In-person workshops, online courses, lab environments, certifications
+- **APNIC Labs** — labs.apnic.net — adoption data and measurement tools
+- **Internet Society** — internetsociety.org — policy, resources, Pulse blog
+- Regional NOG events and open educational materials
+- **IEISI IPv6 for Leaders workshop** — www.ieisi.org/training
 
-<!-- [IMAGE PLACEHOLDER: APNIC training resources] -->
+<!-- [IMAGE PLACEHOLDER: Training resource logos] -->
 
 ---
 
@@ -667,11 +672,14 @@ Staff readiness | Transition mechanism selection
 # Next Steps and Resources
 
 - APNIC IPv6 Program: [https://www.apnic.net/ipv6](https://www.apnic.net/ipv6)
+- APNIC Academy: academy.apnic.net
+- APNIC Labs adoption data: labs.apnic.net
 - Regional IPv6 Task Force contacts
-- Workshop materials available online
-- Follow-up workshop opportunities
-- Implementation support resources
-- Community engagement channels
+- [Why IPv6 Adoption Is Stalled — Internet Society Pulse](https://pulse.internetsociety.org/en/blog/2025/09/why-ipv6-adoption-is-stalled-the-behavioral-science-behind-internet-infrastructure-change/)
+- [IPv4 is Technical Debt](https://medium.com/@terrysweetser_90287/ipv4-is-technical-debt-fa6449dc06d4)
+- [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f)
+- [IPv6 Mandatory, IPv4 Optional](https://medium.com/@terrysweetser_90287/ipv6-mandatory-ipv4-optional-rethinking-address-policy-for-equity-and-sustainability-e698d4973459)
+- **IPv6 for Leaders workshop (full day):** [www.ieisi.org/training](https://www.ieisi.org/training)
 
 ---
 
@@ -679,4 +687,4 @@ Staff readiness | Transition mechanism selection
 
 ## Questions and Discussion
 
-<!-- Contact and additional resource information -->
+**Contact:** tcs@ieisi.org | www.ieisi.org

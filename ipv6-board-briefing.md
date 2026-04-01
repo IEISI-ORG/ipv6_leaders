@@ -63,7 +63,6 @@ li, blockquote { font-size: 0.76em; }
 
 ## From Scarcity to Abundance
 
-<!-- _class: lead -->
 <style scoped>
 table { font-size: 0.85em; }
 </style>
@@ -204,7 +203,7 @@ li, blockquote, p { font-size: 0.9em; }
 
 ---
 
-# NAT Is Not Security
+## NAT Is Not Security
 
 - NAT hides internal addresses — it does **not** inspect, filter, or block threats
 - Malware, phishing, and insider threats all operate freely behind NAT
@@ -236,6 +235,20 @@ If the answer is "we don't know" — that is the first action item.
 ---
 
 # Section 4: Where You Stand & What to Decide
+
+---
+
+## Why Adoption Stalls — It Is Not About Knowledge
+
+- Research across 147 meta-analyses shows knowledge-based interventions have **negligible effect** on behaviour change
+- Organisations understand IPv6 is needed — they have for years
+- What actually drives change: **access, defaults, incentives, and social proof**
+- HTTPS succeeded not through education — but through free certificates, browser defaults, and SEO incentives
+- IPv6 stalls where it is still harder, more expensive, or riskier than doing nothing
+
+> "The question isn't whether people understand the need for IPv6. It's whether we've made IPv6 deployment the natural, obvious, easy choice."
+
+<small>_Source: Internet Society Pulse, September 2025 — [Why IPv6 Adoption Is Stalled](https://pulse.internetsociety.org/en/blog/2025/09/why-ipv6-adoption-is-stalled-the-behavioral-science-behind-internet-infrastructure-change/)_</small>
 
 ---
 
@@ -362,6 +375,7 @@ li, strong { font-size: 0.82em; }
 **Ongoing**
 - Monitor APNIC Labs adoption benchmarks
 - Make IPv6 a mandatory procurement criterion
+- Remove structural barriers: make IPv6 the default, not the exception
 
 </div>
 </div>
@@ -397,6 +411,7 @@ li, p { font-size: 0.85em; }
 **Further resources:**
 - APNIC Academy: academy.apnic.net
 - APNIC Labs adoption data: labs.apnic.net
+- [Why IPv6 Adoption Is Stalled — Internet Society Pulse](https://pulse.internetsociety.org/en/blog/2025/09/why-ipv6-adoption-is-stalled-the-behavioral-science-behind-internet-infrastructure-change/)
 - [IPv4 is Technical Debt](https://medium.com/@terrysweetser_90287/ipv4-is-technical-debt-fa6449dc06d4)
 - [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f)
 - [IPv6 Mandatory, IPv4 Optional](https://medium.com/@terrysweetser_90287/ipv6-mandatory-ipv4-optional-rethinking-address-policy-for-equity-and-sustainability-e698d4973459)
