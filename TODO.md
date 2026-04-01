@@ -1,10 +1,5 @@
 # TODO
 
-## Critical
-
-- [ ] **#12** `.gitignore` — `apac_logo.png` and `apnic_ipv6.png` not committed; board briefing breaks on clone
-- [ ] **#13** `Makefile` — syntax bug: missing space in `--hide-scrollbars--run-all-compositor-stages-before-draw`
-
 ## Board Briefing (`ipv6-board-briefing.md`)
 
 - [ ] **#1** Replace `picsum.photos` placeholder images on pages 2, 4, 6, 17, 23
@@ -15,14 +10,32 @@
 ## Workshop Deck (`ipv6-marp-slide-deck.md`)
 
 - [ ] **#4** Update footer year: 2025 → 2026
-- [ ] **#5** Replace APNIC logo with `apac_logo.png` (with circular crop, matching board briefing)
+- [ ] **#5** Replace APNIC logo (`APNIC-Formal-Logo_web.jpg`) with `images/apac_logo.png` (circular crop, matching board briefing)
 - [ ] **#6** Update stale adoption stats: global ~40% → ~43%, IPv4 prices $50–60 → ~$20
-- [ ] **#7** Verify all 13 local image files exist: `headers.gif`, `apnic_labs_reliance_jio.png`, `hilco.png`, `apnic_labs.png`, `apnic_labs_ipv6_heatmap.png`, `apnic_labs_ipv6_world-0.jpg`, `apnic_labs_ipv6_polynesia-0.jpg`, `google.png`, `google2.png`, `having_a_plan.png`, `rfc7381.png`, `apnic_ipv6_rural_cropped.png`, `apnic_ipv6_city.png`
-- [ ] **#8** Add contact and IEISI resources to closing slide (tcs@ieisi.org, www.ieisi.org/training, Medium articles)
+- [ ] **#7** Verify image files exist — missing: `images/headers.gif`, `images/hilco.png`, `images/apnic_ipv6_rural_cropped.png`; captures require `make images`
+- [ ] **#8** Add IEISI contact and resources to closing slide (tcs@ieisi.org, www.ieisi.org/training, Medium articles)
 - [ ] **#9** Incorporate Medium article insights: IPv4 price trajectory, "laziness tax", IPv6-mandatory policy direction
 
 ## Supporting Docs
 
-- [ ] **#11** `README.md` — rewrite as actual project README (currently a duplicate of the detailed workshop plan)
-- [ ] **#14** `Makefile` — add `clean` target; add board briefing `pptx` target
-- [ ] **#15** `ipv6-workshop-plan.md` / `ipv6-workshop-detailed-plan.md` — update APNIC→IEISI facilitator branding, add contact info, add IPv6-first language to Section 9
+- [ ] **#15** `ipv6-workshop-plan.md` / `ipv6-workshop-detailed-plan.md` / `STRATEGY.md` — update APNIC→IEISI facilitator branding where appropriate, add contact info, add IPv6-first language to Section 9
+
+## APNIC References to Fix
+
+- [ ] `ipv6-marp-slide-deck.md` line 14 — `APNIC-Formal-Logo_web.jpg` on title slide (covered by #5)
+- [ ] `ipv6-marp-slide-deck.md` lines 622–634 — "APNIC and NGO Resources" slide: reframe APNIC training as an external resource, not host offering
+- [ ] `ipv6-marp-slide-deck.md` line 669 — "APNIC IPv6 Program" only resource link: add IEISI training reference
+- [ ] `ipv6-workshop-plan.md` line 83 — "Maximizing value from APNIC training resources" → reframe as external resource
+
+## Completed
+
+- [x] **#12** `.gitignore` rewritten; `images/apac_logo.png` and `images/apnic_ipv6.png` committed
+- [x] **#13** Makefile: fixed missing space in `--hide-scrollbars --run-all-compositor-stages-before-draw`
+- [x] **#14** Makefile overhauled: `clean`/`clean-images` targets, `briefing`/`workshop` groups, no pptx, `$(CAPTURES)` variable
+- [x] **#11** `README.md` rewritten as proper project README
+- [x] `STRATEGY.md` created from old README content
+- [x] `CLAUDE.md` created with standing orders
+- [x] `LICENSE.md` — replaced CC0 with CC BY-NC-SA 4.0, APNIC attribution added
+- [x] `images/` and `captures/` directory structure established
+- [x] Board briefing footer updated to © 2026 IEISI
+- [x] All image refs updated: `images/` for committed assets, `captures/` for screenshots
