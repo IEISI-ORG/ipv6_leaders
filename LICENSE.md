@@ -2,6 +2,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 CC BY-NC-SA 4.0
 
 Copyright © 2026 Terry Sweetser, IEISI (www.ieisi.org)
+Portions copyright © 2024 APNIC Pty Ltd (www.apnic.net)
 
 This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
