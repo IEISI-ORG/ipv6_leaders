@@ -16,7 +16,7 @@ h1, h3 { margin-left: 240px; }
 img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
 </style>
 
-<img class="logo" src="apac_logo.png">
+<img class="logo" src="images/apac_logo.png">
 
 # IPv6: A Board Briefing
 ### IPv4 slows down growth. IPv6 enables it.
@@ -314,7 +314,7 @@ li, strong, blockquote, p { font-size: 0.72em; }
 
 ## APNIC: Your Regional Resource
 
-![bg contain opacity:0.2](apnic_ipv6.png)
+![bg contain opacity:0.2](images/apnic_ipv6.png)
 
 **What APNIC provides:**
 - IPv6 address allocation and policy

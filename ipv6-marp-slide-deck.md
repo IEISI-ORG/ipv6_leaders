@@ -56,7 +56,7 @@ Image placeholders are included where visuals would enhance the content
 - Foundation for next-generation applications and services
 
 ---
-![](headers.gif)
+![](images/headers.gif)
 
 ---
 
@@ -138,14 +138,14 @@ Image placeholders are included where visuals would enhance the content
 - Connection between IPv6 and digital inclusion
 
 ---
-![](apnic_labs_reliance_jio.png)
+![](captures/apnic_labs_reliance_jio.png)
 
 ---
 ## The Cost Of IPv4 Addresses
 ![](https://www.ipxo.com/app/uploads/2021/10/ipv4-sales-2014-2023-1024x526.png)
 
 ---
-![bg left:40% h:450 w:450](hilco.png)
+![bg left:40% h:450 w:450](images/hilco.png)
 
 ## Prices are volatile
 ## Prices are trending downwards
@@ -213,7 +213,7 @@ Image placeholders are included where visuals would enhance the content
 
 ---
 ## https://labs.apnic.net/measurements/
-![60%](apnic_labs.png)
+![60%](captures/apnic_labs.png)
 
 ---
 
@@ -226,15 +226,15 @@ Image placeholders are included where visuals would enhance the content
 - Wide variation in enterprise adoption
 
 ---
-![bg](apnic_labs_ipv6_heatmap.png)
+![bg](captures/apnic_labs_ipv6_heatmap.png)
 <p align="right">https://stats.labs.apnic.net/ipv6</p>
 
 ---
-![w:700 h:450](apnic_labs_ipv6_world-0.jpg)
+![w:700 h:450](captures/apnic_labs_ipv6_world-0.jpg)
 <p align="right">https://stats.labs.apnic.net/ipv6</p>
 
 ---
-![w:700 h:450](apnic_labs_ipv6_polynesia-0.jpg)
+![w:700 h:450](captures/apnic_labs_ipv6_polynesia-0.jpg)
 <p align="right">https://stats.labs.apnic.net/ipv6/QS</p>
 
 ---
@@ -250,11 +250,11 @@ Image placeholders are included where visuals would enhance the content
 
 ---
 https://www.google.com/intl/en/ipv6/statistics.html
-![](google.png)
+![](captures/google.png)
 
 ---
 https://www.google.com/intl/en/ipv6/statistics.html
-![](google2.png)
+![](captures/google2.png)
 
 ---
 
@@ -306,10 +306,10 @@ https://www.google.com/intl/en/ipv6/statistics.html
 
 ---
 ## https://www.mdpi.com/605136
-![](apnic_ipv6_rural_cropped.png)
+![](images/apnic_ipv6_rural_cropped.png)
 
 ---
-![](apnic_ipv6_city.png)
+![](captures/apnic_ipv6_city.png)
 <!-- [IMAGE PLACEHOLDER: Smart city implementation using IPv6] -->
 
 ---
@@ -444,10 +444,10 @@ Siloed responsibility | Cross-functional teams
 # Section 9: Evaluating a Deployment Plan
 
 ---
-![](having_a_plan.png)
+![](captures/having_a_plan.png)
 
 ---
-![](rfc7381.png)
+![](captures/rfc7381.png)
 
 ---
 
