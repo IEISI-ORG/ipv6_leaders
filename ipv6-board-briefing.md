@@ -167,7 +167,7 @@ li, blockquote, p { font-size: 0.9em; }
 
 ## Competitive and Strategic Upside
 
-![bg 65% opacity:0.15](https://www.un.org/sites/un2.un.org/files/2020/06/sdg9-en.png)
+![bg 45% opacity:0.35](https://www.un.org/sites/un2.un.org/files/2020/06/sdg9-en.png)
 
 **Operational efficiency**
 - Simplified network architecture — remove NAT layers
@@ -272,7 +272,7 @@ table { font-size: 0.85em; }
 ## Typical Deployment Pathway
 
 <style scoped>
-li, strong, blockquote, p { font-size: 0.65em; }
+li, strong, blockquote, p { font-size: 0.58em; }
 </style>
 
 **Months 1–3 — Foundation**
@@ -291,6 +291,8 @@ li, strong, blockquote, p { font-size: 0.65em; }
 > By 2028, IPv4 operational costs exceed utility. Organisations not yet on this pathway will be managing a crisis, not a project.
 
 ---
+
+![bg left:20% w:200](images/ipv6_deployment.png)
 
 ## Questions to Ask Your Technical Team
 
