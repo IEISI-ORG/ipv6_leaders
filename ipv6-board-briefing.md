@@ -239,6 +239,10 @@ If the answer is "we don't know" — that is the first action item.
 
 ## Why Adoption Stalls — It Is Not About Knowledge
 
+<style scoped>
+li, p, blockquote { font-size: 0.8em; }
+</style>
+
 - Research across 147 meta-analyses shows knowledge-based interventions have **negligible effect** on behaviour change
 - Organisations understand IPv6 is needed — they have for years
 - What actually drives change: **access, defaults, incentives, and social proof**
@@ -269,10 +273,12 @@ table { font-size: 0.85em; }
 
 ---
 
+![bg left:20% w:200](images/ipv6_deployment.png)
+
 ## Typical Deployment Pathway
 
 <style scoped>
-li, strong, blockquote, p { font-size: 0.58em; }
+li, strong, blockquote, p { font-size: 0.8em; }
 </style>
 
 **Months 1–3 — Foundation**
@@ -291,8 +297,6 @@ li, strong, blockquote, p { font-size: 0.58em; }
 > By 2028, IPv4 operational costs exceed utility. Organisations not yet on this pathway will be managing a crisis, not a project.
 
 ---
-
-![bg left:20% w:200](images/ipv6_deployment.png)
 
 ## Questions to Ask Your Technical Team
 
@@ -406,7 +410,7 @@ blockquote { font-size: 0.85em; }
 ### Questions & Discussion
 
 <style scoped>
-li, p { font-size: 0.85em; }
+li, p { font-size: 0.8em; }
 </style>
 
 **Further resources:**
