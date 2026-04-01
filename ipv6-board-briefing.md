@@ -79,7 +79,6 @@ table { font-size: 0.85em; }
 > IPv6 was designed to solve this problem and has been production-ready for over a decade.
 
 ---
-![bg width:700 bottom:30%](images/ipv6_risks.png)
 
 ## What Your Organisation Is Probably Already Doing
 
@@ -273,7 +272,7 @@ table { font-size: 0.85em; }
 ## Typical Deployment Pathway
 
 <style scoped>
-li, strong, blockquote, p { font-size: 0.72em; }
+li, strong, blockquote, p { font-size: 0.65em; }
 </style>
 
 **Months 1–3 — Foundation**
