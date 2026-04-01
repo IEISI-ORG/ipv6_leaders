@@ -629,14 +629,18 @@ Staff readiness | Transition mechanism selection
 
 ## External Training & NGO Resources
 
-- **APNIC Academy** — academy.apnic.net
+- **APNIC Academy** — [academy.apnic.net](https://academy.apnic.net/)
   - In-person workshops, online courses, lab environments, certifications
+- **NSRC** — [learn.nsrc.org](https://learn.nsrc.org/)
+  - Network engineering training, strong Pacific and developing-region focus
+- **RIPE NCC Academy** — [IPv6 course](https://academy.ripe.net/enrol/index.php?id=13)
+  - Free self-paced IPv6 fundamentals course
 - **APNIC Labs** — labs.apnic.net — adoption data and measurement tools
-- **Internet Society** — internetsociety.org — policy, resources, Pulse blog
-- Regional NOG events and open educational materials
-- **IEISI IPv6 for Leaders workshop** — www.ieisi.org/training
+- **IEISI IPv6 for Leaders workshop** — [www.ieisi.org/training](https://www.ieisi.org/training)
 
-<!-- [IMAGE PLACEHOLDER: Training resource logos] -->
+---
+
+![bg](images/training_hubs.png)
 
 ---
 
