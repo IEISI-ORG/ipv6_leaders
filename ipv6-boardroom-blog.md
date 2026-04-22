@@ -26,7 +26,7 @@ GRC is the native language of boards and senior leadership. Risk registers, audi
 
 **Risk:** The risk register should carry at least three IPv6-related entries. First: unmanaged IPv6 traffic is a security blind spot — most monitoring tools default to IPv4, which means threats moving over IPv6 may not be visible. Second: continuing dependence on IPv4 workarounds is operational risk — CGNAT adds complexity, latency, and helpdesk load, and the vendors selling those workarounds are quietly winding them down. Third: the IPv4 secondary market is in terminal decline (more on this below) — organisations holding IPv4 allocations as assets are holding technical debt with a known expiry.
 
-**Compliance:** This one is moving fast. The US federal government has mandated IPv6-only for new infrastructure. Regulatory direction across the Asia Pacific is tracking the same trajectory. Security frameworks — NIST, ISO 27001, CIS — require organisations to govern what's on their network. If your security policy doesn't explicitly cover IPv6, you have a compliance gap that an auditor can find today. That sentence alone tends to get the room's attention.
+**Compliance:** This one is moving fast. The US federal government has mandated IPv6-only for new infrastructure. Regulatory direction across the Asia Pacific is tracking the same trajectory. Security frameworks — NIST, ISO 27001, CIS — require organisations to govern what's on their network. If your security policy doesn't explicitly cover IPv6, you have a compliance gap that an auditor can find today. That sentence alone tends to get the Boardroom's attention.
 
 ---
 
@@ -65,7 +65,7 @@ The technical team can run the implementation. What leadership needs to do is re
 
 APNIC data shows that without active intervention, universal IPv6 adoption is still two decades away. That's twenty more years of organisations paying the IPv4 laziness tax, capping their own growth, and — for Pacific organisations — subsidising address holders in other regions.
 
-The technology is ready. The training exists. The narrative is here. Now it needs someone to take it into the room.
+The technology is ready. The training exists. The narrative is here. Now it needs someone to take it into the Boardroom.
 
 ---
 
