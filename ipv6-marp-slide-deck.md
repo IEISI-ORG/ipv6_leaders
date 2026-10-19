@@ -3,7 +3,7 @@ marp: true
 theme: academic
 paginate: true
 header: "IPv6 for Leaders Workshop"
-footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
+footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training"
 ---
 
 <!-- 
@@ -714,4 +714,4 @@ Screenshots are reproduced for commentary; their copyright remains with the sour
 
 > **IPv4 slows down growth. IPv6 enables it.**
 
-**Contact:** tcs@ieisi.org | www.ieisi.org
+**Contact:** terry@ieisi.org | ieisi.org/training

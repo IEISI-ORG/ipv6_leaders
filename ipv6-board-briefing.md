@@ -3,7 +3,7 @@ marp: true
 theme: academic
 paginate: true
 header: "IPv6: Board & Executive Briefing"
-footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
+footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training"
 ---
 
 <!-- 
@@ -450,4 +450,4 @@ li, p { font-size: 0.8em; }
 - IPv6 for Leaders workshop (full day): [www.ieisi.org/training](https://www.ieisi.org/training)
 
 **Contact:**
-tcs@ieisi.org | www.ieisi.org
+terry@ieisi.org | ieisi.org/training

@@ -15,10 +15,10 @@ marp --allow-local-files --pdf <file>.md
 
 ### Contact and branding
 - Facilitator: Terry Sweetser, IEISI
-- Email: tcs@ieisi.org
+- Email: terry@ieisi.org
 - Web: www.ieisi.org
 - Training: www.ieisi.org/training
-- Copyright footer: `© 2026 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org`
+- Copyright footer: `© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training`
 
 ### Analogies
 Do not use Western-centric analogies (e.g. taxi medallions, Uber/ridesharing) — these do not resonate with Pacific Island audiences. Use analogies with universal or regional relevance.

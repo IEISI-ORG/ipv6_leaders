@@ -1,6 +1,6 @@
 # IPv6 for Leaders: Detailed Workshop Plan
 
-**Facilitator:** Terry Sweetser, IEISI · tcs@ieisi.org · www.ieisi.org/training
+**Facilitator:** Terry Sweetser, IEISI · terry@ieisi.org · ieisi.org/training
 
 ## Workshop Schedule Overview
 **Total Time Available:** 11:30 AM - 4:00 PM (4.5 hours)

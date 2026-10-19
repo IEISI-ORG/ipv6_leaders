@@ -3,7 +3,7 @@
 Training and briefing materials for IPv6 adoption, aimed at senior leaders, managers, and board members.
 
 Developed and maintained by **Terry Sweetser**, Founder & Principal Consultant, [IEISI](https://www.ieisi.org).
-Contact: tcs@ieisi.org | Training: www.ieisi.org/training
+Contact: terry@ieisi.org | Training: ieisi.org/training
 
 ---
 
