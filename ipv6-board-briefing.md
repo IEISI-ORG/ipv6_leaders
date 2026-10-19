@@ -227,7 +227,7 @@ blockquote { font-size: 0.7em; }
 - Malware, phishing, and insider threats all operate freely behind NAT
 - NAT breaks end-to-end connectivity — it does not protect it
 - A firewall with no NAT is more secure than NAT with no firewall
-- **Every serious security framework — NIST, ISO 27001, CIS — requires firewalls, not NAT**
+- **NIST, ISO 27001 and CIS all require you to govern what is on your network — NAT does not do that; firewalls and policy do**
 
 > If your security strategy depends on NAT, you do not have a security strategy.
 
