@@ -98,14 +98,18 @@ table { font-size: 0.85em; }
 
 ## The Cost of Inaction — Operations
 
-- IPv4 addresses: **$60+ (2022 peak) → $14–25 (Oct 2026)** — still falling
+<style scoped>
+li, blockquote, p { font-size: 0.9em; }
+</style>
+
+- IPv4 addresses: **$60+ (2022 peak) → $14–27 (Oct 2026)** — volatile, not falling
 - All major vendors (Cisco, Juniper, Arista, Dell) have shipped IPv6-capable hardware as standard since the mid-2010s — **no additional licensing cost**
 - CGNAT infrastructure costs, complexity, and helpdesk burden remain regardless
 - Continuing to lease IPv4 is a **"laziness tax"** — paying a premium for inertia
 
 > The transition cost is now organisational, not technical. Leadership is the bottleneck.
 
-<small>_RFC 9386 (IETF, 2023): new equipment and most operating systems have supported IPv6 for many years. The barrier is no longer hardware._</small>
+<small>_RFC 9386 (IETF, 2023): new equipment and most operating systems have supported IPv6 for many years. The barrier is no longer hardware. Prices: IPv4.Global prior sales, Oct 2026._</small>
 
 ---
 
@@ -123,12 +127,12 @@ table { font-size: 0.85em; }
 ## The IPv4 Market Is Closing
 
 <style scoped>
-li, blockquote, p { font-size: 0.9em; }
+li, blockquote, p { font-size: 0.85em; }
 </style>
 
 - **IEISI projection:** $60+ (2022) → ~$20 (2025) → below $10 (2026–27) → economically worthless (2028)
-- **October 2026 actual:** ~$14–25 per address by block size — large blocks ~$14, /24s ~$25 (IPv4.Global prior sales, 9–17 Oct 2026)
-- Bid-ask spread is now unbridgeable — sellers expect $50+, buyers offer $20
+- **October 2026 actual:** $14 (large blocks) to ~$27 (/24 median); the broker reports prices rising since August (IPv4.Global, 9–17 Oct 2026)
+- Bid-ask spread remains wide — sellers still ask $50+; buyers pay $14–30
 - IPv4 addresses are *technical debt*, not assets — their value was always artificial scarcity, not inherent utility
 - Once substitution costs reach zero, the asset doesn't gradually depreciate — it **crashes to scrap value**
 - On current trends, dual-stack operational costs exceed IPv4 utility by **2028**
@@ -142,10 +146,10 @@ li, blockquote, p { font-size: 0.9em; }
 ## Global Adoption Is Already Underway
 
 <style scoped>
-li, blockquote, p { font-size: 0.9em; }
+li, blockquote, p { font-size: 0.85em; }
 </style>
 
-- Global: **~44%** IPv6-capable (APNIC Labs) / **~51%** of Google traffic over IPv6
+- Global: **~44%** IPv6-capable (APNIC Labs) / **~48%** of Google users on IPv6
 - India: **~76%** — the world's largest IPv6 deployment, driven by Reliance Jio
 - France: **~86%**; Germany: **~73%** — European leaders
 - USA: **~62%** IPv6-capable across all traffic
@@ -155,7 +159,7 @@ li, blockquote, p { font-size: 0.9em; }
 
 > Waiting for the market to force the transition means waiting two decades.
 
-<small>_Sources: APNIC Labs, 30 days to 2026-10-18; Google IPv6 statistics 51% (2026-10-19); mid-2040s: Huston, "The IPv6 transition", APNIC Blog, Oct 2024._</small>
+<small>_Sources: APNIC Labs, 30 days to 2026-10-18; Google IPv6 statistics ~48%, 7-day average to 2026-10-17; mid-2040s: Huston, "The IPv6 transition", APNIC Blog, Oct 2024._</small>
 
 ---
 
@@ -170,10 +174,10 @@ blockquote { font-size: 0.7em; }
 |---|---|---|---|
 | Kiribati, Nauru, Tuvalu | 50–57% | ~100% | 0% |
 | Cook Islands, Samoa, FSM, Vanuatu | 10–41% | ~100% | 0% |
-| Solomon Islands, Marshall Islands | 15–30% | ~96% | SATSOL 9%; others 0% |
-| Tonga | 31% | ~47% | Tonga Communications 29% |
-| PNG | 27% | ~13% | Digitec 52% |
-| Fiji | 41% | ~5% | Vodafone Fiji 61% |
+| Solomon Islands, Marshall Islands | 15–30% | ~96–97% | SATSOL 9%; others 0% |
+| Tonga | 31% | ~47% | Tonga Communications 29%; Digicel 0% |
+| PNG | 27% | ~13% | Digitec 52%; Digicel, Telikom 0% |
+| Fiji | 41% | ~5% | Vodafone Fiji 61%; Telecom Fiji 5%; Digicel 0% |
 
 > Starlink delivers IPv6 to your citizens today. Most domestic operators deliver none. Fiji and PNG show it can be done. **IPv4 slows down growth. IPv6 enables it.**
 > <small>_Source: APNIC Labs per-network data, 30 days to 2026-10-18; Starlink = AS14593. Small samples for Vanuatu, Nauru, Tuvalu._</small>

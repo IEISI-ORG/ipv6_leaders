@@ -9,7 +9,6 @@ footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | tcs@ieisi.org | www.ieisi.org"
 <!-- 
 MARP Slide Deck for IPv6 for Leaders Workshop
 Each slide is designed with appropriate content density
-Image placeholders are included where visuals would enhance the content
 -->
 <!-- _header: "" -->
 
@@ -134,12 +133,12 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 ## The Growth Problem
 
 - IPv4 scarcity as barrier to internet growth
-- IPv4 addresses: **$60+ (2022 peak) → $14–25 (Oct 2026)** — still falling
+- IPv4 addresses: **$60+ (2022 peak) → $14–27 (Oct 2026)** — volatile, not falling
 - Service degradation from address sharing (CGNAT)
 - Early-adopting regions hold vast legacy allocations — late adopters pay the "laziness tax"
 - IPv6 eliminates regional inequity: **IPv4 slows down growth. IPv6 enables it.**
 
-<small>_Source: [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
+<small>_Sources: IPv4.Global prior sales, Oct 2026; [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
 
 ---
 ![h:460](captures/apnic_labs_reliance_jio.png)
@@ -147,7 +146,7 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 ---
 
 ## Prices are volatile
-## Prices are trending downwards
+## Prices are well below the 2022 peak
 ## Prices are varied by size
 
 # WHY?
@@ -234,10 +233,10 @@ blockquote { font-size: 0.7em; }
 |---|---|---|---|
 | Kiribati, Nauru, Tuvalu | 50–57% | ~100% | 0% |
 | Cook Islands, Samoa, FSM, Vanuatu | 10–41% | ~100% | 0% |
-| Solomon Islands, Marshall Islands | 15–30% | ~96% | SATSOL 9%; others 0% |
-| Tonga | 31% | ~47% | Tonga Communications 29% |
-| PNG | 27% | ~13% | Digitec 52% |
-| Fiji | 41% | ~5% | Vodafone Fiji 61% |
+| Solomon Islands, Marshall Islands | 15–30% | ~96–97% | SATSOL 9%; others 0% |
+| Tonga | 31% | ~47% | Tonga Communications 29%; Digicel 0% |
+| PNG | 27% | ~13% | Digitec 52%; Digicel, Telikom 0% |
+| Fiji | 41% | ~5% | Vodafone Fiji 61%; Telecom Fiji 5%; Digicel 0% |
 
 > Starlink delivers IPv6 to your citizens today. Most domestic operators deliver none. Fiji and PNG show it can be done. **IPv4 slows down growth. IPv6 enables it.**
 > <small>_Source: APNIC Labs per-network data, 30 days to 2026-10-18; Starlink = AS14593. Small samples for Vanuatu, Nauru, Tuvalu._</small>
@@ -515,7 +514,7 @@ Staff readiness | Transition mechanism selection
 ## Transition Mechanisms
 
 - **Dual-stack** — run both; the common first step, not the destination
-- **IPv6-mostly** — IPv6 by default, IPv4 only for devices that ask (RFC 8925)
+- **IPv6-mostly** — IPv6 by default, IPv4 only for devices that need it (RFC 8925)
 - **IPv6-only with translation** — NAT64/DNS64 and 464XLAT for legacy IPv4 services
 - Selection criteria: what your users' devices support, what your vendors support, how you will retire IPv4
 
@@ -591,7 +590,7 @@ Staff readiness | Transition mechanism selection
 - Security for massive deployments
 - Management at scale
 
-<small>_Source: IoT Analytics, State of IoT Summer 2025 — 21.1 billion connected IoT devices in 2025, 39 billion projected for 2030_</small>
+<small>_Source: IoT Analytics, State of IoT 2025 — 21.1 billion connected IoT devices in 2025, 39 billion projected for 2030_</small>
 
 ---
 
@@ -701,7 +700,9 @@ Staff readiness | Transition mechanism selection
 - APNIC Blog — "The realities of building an IPv6-only city" (2024)
 - MDPI Applied System Innovation 3(1):4 — rural IPv6 case study
 - Internet Society Pulse — "Why IPv6 Adoption Is Stalled" (2025)
-- Theme: academic (kaisugi, MIT)
+- IPv4.Global — prior sales price data (ipv4.global)
+- IoT Analytics — State of IoT 2025
+- Geoff Huston, APNIC Blog — "The IPv6 transition" (2024)
 
 Screenshots are reproduced for commentary; their copyright remains with the sources. This deck's CC BY-NC-SA licence covers IEISI's own content.
 
