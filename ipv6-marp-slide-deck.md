@@ -234,7 +234,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 ---
 <!-- _header: "" -->
-![bg](captures/apnic_labs_ipv6_heatmap.png)
+![h:560](captures/apnic_labs_ipv6_heatmap.png)
 
 ---
 ## stats.labs.apnic.net/ipv6 — World
