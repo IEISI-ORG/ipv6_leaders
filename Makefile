@@ -20,22 +20,22 @@ all: briefing workshop
 
 briefing: ipv6-board-briefing.html ipv6-board-briefing.pdf
 
-ipv6-board-briefing.html: ipv6-board-briefing.md academic.css
-	marp --allow-local-files --html ipv6-board-briefing.md
+ipv6-board-briefing.html: ipv6-board-briefing.md ieisi.css
+	marp --allow-local-files --theme-set ieisi.css --html ipv6-board-briefing.md
 
-ipv6-board-briefing.pdf: ipv6-board-briefing.md academic.css
-	marp --allow-local-files --pdf ipv6-board-briefing.md
+ipv6-board-briefing.pdf: ipv6-board-briefing.md ieisi.css
+	marp --allow-local-files --theme-set ieisi.css --pdf ipv6-board-briefing.md
 
 # ── Workshop Deck ─────────────────────────────────────────────────────────────
 # Run `make images` separately to refresh screenshots into captures/
 
 workshop: ipv6-marp-slide-deck.html ipv6-marp-slide-deck.pdf
 
-ipv6-marp-slide-deck.html: ipv6-marp-slide-deck.md academic.css
-	marp --allow-local-files --html ipv6-marp-slide-deck.md
+ipv6-marp-slide-deck.html: ipv6-marp-slide-deck.md ieisi.css
+	marp --allow-local-files --theme-set ieisi.css --html ipv6-marp-slide-deck.md
 
-ipv6-marp-slide-deck.pdf: ipv6-marp-slide-deck.md academic.css
-	marp --allow-local-files --pdf ipv6-marp-slide-deck.md
+ipv6-marp-slide-deck.pdf: ipv6-marp-slide-deck.md ieisi.css
+	marp --allow-local-files --theme-set ieisi.css --pdf ipv6-marp-slide-deck.md
 
 # ── Screenshot refresh (run manually, requires Chromium + network) ─────────────
 

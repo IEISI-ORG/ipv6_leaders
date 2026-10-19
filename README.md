@@ -19,7 +19,7 @@ Contact: terry@ieisi.org | Training: ieisi.org/training
 | `TODO.md` | Outstanding tasks and known issues |
 | `plan/` | Review and update plans (2026-10-19 review, repo update plan, slide update work plan) |
 | `Makefile` | Build targets: `all`, `briefing`, `workshop`, `images`, `clean` |
-| `academic.css` | Custom MARP theme (based on Gaia) |
+| `ieisi.css` | IEISI Marp theme (navy/blue/red, Roboto Flex), built from the www.ieisi.org look |
 
 ---
 

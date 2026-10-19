@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: academic
+theme: ieisi
 paginate: true
 header: "IPv6: Board & Executive Briefing"
 footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training"
@@ -11,12 +11,7 @@ MARP Slide Deck: IPv6 Board & Executive Briefing
 20-minute presentation for senior leaders, board members, and C-suite executives
 Designed for strategic decision-making, not technical deep-dives
 -->
-<!-- _header: "" -->
-
-<style scoped>
-h1, h3 { margin-left: 240px; }
-img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
-</style>
+<!-- _class: title -->
 
 <img class="logo" src="images/apac_logo.png">
 
@@ -37,6 +32,8 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 > **20 minutes. No jargon. Clear decisions.**
 
 ---
+
+<!-- _class: section -->
 
 # Section 1: The Internet's Address Crisis
 
@@ -91,6 +88,8 @@ table { font-size: 0.85em; }
 > **These are operational costs and risks already on your books.**
 
 ---
+
+<!-- _class: section -->
 
 # Section 2: Strategic Risk & Business Case
 
@@ -213,6 +212,8 @@ blockquote { font-size: 0.7em; }
 
 ---
 
+<!-- _class: section -->
+
 # Section 3: Security — Myth vs. Reality
 
 ---
@@ -260,6 +261,8 @@ Organisations without an IPv6 policy face:
 If the answer is "we don't know" — that is the first action item.
 
 ---
+
+<!-- _class: section -->
 
 # Section 4: Where You Stand & What to Decide
 
@@ -340,6 +343,8 @@ li, strong, blockquote, p { font-size: 0.8em; }
 
 ---
 
+<!-- _class: section -->
+
 # Section 5: The Governance Framework
 
 ---
@@ -373,6 +378,8 @@ li, strong, blockquote, p { font-size: 0.8em; }
 - Your adoption contributes to national and regional readiness
 
 ---
+
+<!-- _class: section -->
 
 # Section 6: Recommendations & Next Steps
 

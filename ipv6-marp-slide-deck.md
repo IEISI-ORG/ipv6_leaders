@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: academic
+theme: ieisi
 paginate: true
 header: "IPv6 for Leaders Workshop"
 footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training"
@@ -10,12 +10,7 @@ footer: "© 2026 IEISI: CC BY-NC-SA 4.0 | terry@ieisi.org | ieisi.org/training"
 MARP Slide Deck for IPv6 for Leaders Workshop
 Each slide is designed with appropriate content density
 -->
-<!-- _header: "" -->
-
-<style scoped>
-h1, h3 { margin-left: 240px; }
-img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
-</style>
+<!-- _class: title -->
 
 <img class="logo" src="images/apac_logo.png">
 
@@ -47,6 +42,8 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Learning & Development Strategy
 
 ---
+
+<!-- _class: section -->
 
 # Section 1: IPv6 Basics in Business Terms
 
@@ -104,6 +101,8 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 
 ---
 
+<!-- _class: section -->
+
 # Section 2: Business Case for IPv6 Adoption
 
 ---
@@ -152,6 +151,8 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 # WHY?
 
 ---
+
+<!-- _class: section -->
 
 # Section 3: Security Considerations in IPv6 Transitions
 
@@ -202,6 +203,8 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 - Incident response procedure updates
 
 ---
+
+<!-- _class: section -->
 
 # Section 4: Tracking Adoption with APNIC Labs
 
@@ -285,6 +288,8 @@ https://www.google.com/intl/en/ipv6/statistics.html
 
 ---
 
+<!-- _class: section -->
+
 # Section 5: IPv6 and Sustainable Development Goals
 
 ---
@@ -324,6 +329,8 @@ https://www.google.com/intl/en/ipv6/statistics.html
 ![h:460](captures/apnic_ipv6_city.png)
 
 ---
+
+<!-- _class: section -->
 
 # Section 6: Multi-Stakeholder Model and IPv6 Governance
 
@@ -400,6 +407,8 @@ li, blockquote { font-size: 0.8em; }
 
 ---
 
+<!-- _class: section -->
+
 # Section 7: Common Adoption Barriers and Solutions
 
 ---
@@ -436,6 +445,8 @@ Lack of executive sponsorship | Executive education
 Siloed responsibility | Cross-functional teams
 
 ---
+
+<!-- _class: section -->
 
 # Section 8: What to Look for in an IPv6 Address Plan
 
@@ -475,6 +486,8 @@ Siloed responsibility | Cross-functional teams
 - Documentation and governance
 
 ---
+
+<!-- _class: section -->
 
 # Section 9: Evaluating a Deployment Plan
 
@@ -519,6 +532,8 @@ Staff readiness | Transition mechanism selection
 - Selection criteria: what your users' devices support, what your vendors support, how you will retire IPv4
 
 ---
+
+<!-- _class: section -->
 
 # Section 10: Measuring Success and ROI
 
@@ -577,6 +592,8 @@ Staff readiness | Transition mechanism selection
 
 ---
 
+<!-- _class: section -->
+
 # Section 11: Future-Proofing Beyond Basic IPv6 Adoption
 
 ---
@@ -615,6 +632,8 @@ Staff readiness | Transition mechanism selection
 - New business models
 
 ---
+
+<!-- _class: section -->
 
 # Section 12: Learning & Development Strategy for IPv6
 

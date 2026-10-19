@@ -15,7 +15,6 @@ The full review with evidence is `plan/2026-10-19-review.md`. P0 and P1 items we
 
 ## Repo and build
 
-- [ ] **Theme is not applied.** Both decks declare `theme: academic` but neither the Makefile nor the CLAUDE.md build commands pass `--theme-set academic.css`, so Marp's default theme renders every slide and `academic.css` is unused. With the theme applied, board pages 10 and 12 overflow. Decide: drop `theme: academic` and the CSS, or adopt the theme and re-layout
 - [ ] **A10** Decide whether to keep tracking the built HTML (it drifts with marp-core versions) or treat it like the PDFs
 - [ ] **A13** `academic.css` loads Noto Sans JP and Source Code Pro from Google Fonts; offline venues fall back to system fonts
 - [ ] `make clean-images` deletes the now-tracked `captures/`; redefine as `git checkout -- captures` or drop the target
