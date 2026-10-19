@@ -1,5 +1,7 @@
 # IPv6 for Leaders: Detailed Workshop Plan
 
+**Facilitator:** Terry Sweetser, IEISI · tcs@ieisi.org · www.ieisi.org/training
+
 ## Workshop Schedule Overview
 **Total Time Available:** 11:30 AM - 4:00 PM (4.5 hours)
 **Session Structure:** Two 90-minute teaching sessions + breaks + interactive discussions
@@ -13,34 +15,34 @@
 
 ### 11:45 AM - 1:15 PM (90 minutes) | SESSION ONE
 - **Section 1: The IPv6 Basics in Business Terms** (15 minutes)
-  - Slides 1-5: Introduction to IPv6, addressing exhaustion, key differences
-  - Slide 6: The scarcity to abundance mindset shift (with visual comparison)
+  - Introduction to IPv6, addressing exhaustion, key differences
+  - The scarcity to abundance mindset shift (with visual comparison)
 
 - **Section 2: Business Case for IPv6 Adoption** (15 minutes)
-  - Slides 7-8: Future-proofing and competitive advantages
-  - Slides 9-11: The Growth Problem visualized with global data
-  - Slide 12: Cost analysis framework (implementation vs. delay)
+  - Future-proofing and competitive advantages
+  - The Growth Problem visualized with global data
+  - Cost analysis framework (implementation vs. delay)
 
 - **Section 3: Security Considerations in IPv6 Transitions** (20 minutes)
-  - Slides 13-14: Debunking security myths
-  - Slides 15-16: Security constants across protocols
-  - Slides 17-18: NAT, firewalls, and IPv6 security architecture
-  - Slides 19-20: Security governance during transition
+  - Debunking security myths
+  - Security constants across protocols
+  - NAT, firewalls, and IPv6 security architecture
+  - Security governance during transition
 
 - **Section 4: Tracking Adoption with APNIC Labs** (15 minutes)
-  - Slides 21-22: Global and regional adoption trends
-  - Slides 23-24: Reading and interpreting APNIC statistics 
-  - Slide 25: Benchmarking tool demonstration
+  - Global and regional adoption trends
+  - Reading and interpreting APNIC statistics 
+  - Benchmarking tool demonstration
 
 - **Section 5: IPv6 and Sustainable Development Goals** (15 minutes)
-  - Slides 26-27: IPv6 and SDG alignment overview
-  - Slides 28-29: Case studies of IPv6 supporting sustainability
-  - Slide 30: Self-assessment: "Where is your organization on the SDG+IPv6 matrix?"
+  - IPv6 and SDG alignment overview
+  - Case studies of IPv6 supporting sustainability
+  - Self-assessment: "Where is your organization on the SDG+IPv6 matrix?"
 
 - **Section 6: Internet Governance — How the Internet Is Run** (15 minutes)
-  - Slide 31: How the Internet is governed — multi-stakeholder model, no single owner
-  - Slide 32: Key players — ICANN, IETF, RIRs, IGF, national task forces
-  - Slide 33: Why this matters to leaders — policy, sovereignty, Pacific representation
+  - How the Internet is governed — multi-stakeholder model, no single owner
+  - Key players — ICANN, IETF, RIRs, IGF, national task forces
+  - Why this matters to leaders — policy, sovereignty, Pacific representation
 
 ### 1:15 PM - 2:00 PM (45 minutes)
 - **Interactive Discussion #1: "IPv6 Readiness Assessment"** (35 minutes)
@@ -52,34 +54,34 @@
 
 ### 2:00 PM - 3:30 PM (90 minutes) | SESSION TWO
 - **Section 7: Common Adoption Barriers and Solutions** (15 minutes)
-  - Slides 35-36: Technical and knowledge barriers
-  - Slides 37-38: Financial considerations and ROI calculation models
-  - Slides 39-40: Managing legacy systems and organizational change
+  - Technical and knowledge barriers
+  - Financial considerations and ROI calculation models
+  - Managing legacy systems and organizational change
 
 - **Section 8: What to Look for in an IPv6 Address Plan** (15 minutes)
-  - Slides 41-42: Strategic allocation principles
-  - Slides 43-44: Security by design in address planning
-  - Slide 45: Organizational structure mapping to IPv6 addressing
+  - Strategic allocation principles
+  - Security by design in address planning
+  - Organizational structure mapping to IPv6 addressing
 
 - **Section 9: Evaluating a Deployment Plan** (15 minutes)
-  - Slides 46-47: Milestone planning and timeline development
-  - Slides 48-49: Risk management approaches
-  - Slide 50: Transition mechanisms overview
+  - Milestone planning and timeline development
+  - Risk management approaches
+  - Transition mechanisms overview
 
 - **Section 10: Measuring Success and ROI** (15 minutes)
-  - Slides 51-52: Key performance indicators
-  - Slides 53-54: ROI calculation methodology
-  - Slide 55: Dashboard example for executive visibility
+  - Key performance indicators
+  - ROI calculation methodology
+  - Dashboard example for executive visibility
 
 - **Section 11: Future-Proofing: Beyond Basic IPv6 Adoption** (15 minutes)
-  - Slides 56-57: IoT and massive scaling implications
-  - Slides 58-59: Edge computing and 5G/6G considerations
-  - Slide 60: Strategic visioning exercise results
+  - IoT and massive scaling implications
+  - Edge computing and 5G/6G considerations
+  - Strategic visioning exercise results
 
 - **Section 12: Learning & Development Strategy for IPv6** (15 minutes)
-  - Slides 61-62: Building a competency framework
-  - Slides 63-64: External training resources and NGO ecosystem
-  - Slide 65: Knowledge sharing best practices
+  - Building a competency framework
+  - External training resources and NGO ecosystem
+  - Knowledge sharing best practices
 
 ### 3:30 PM - 3:55 PM (25 minutes)
 - **Interactive Discussion #2: "Deployment Roadmap Development"** (25 minutes)
