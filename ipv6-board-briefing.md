@@ -98,7 +98,7 @@ table { font-size: 0.85em; }
 
 ## The Cost of Inaction — Operations
 
-- IPv4 address prices: **$60+ (2022 peak) → ~$14–25 (October 2026)** — and still falling
+- IPv4 addresses: **$60+ (2022 peak) → $14–25 (Oct 2026)** — still falling
 - All major vendors (Cisco, Juniper, Arista, Dell) have shipped IPv6-capable hardware as standard since the mid-2010s — **no additional licensing cost**
 - CGNAT infrastructure costs, complexity, and helpdesk burden remain regardless
 - Continuing to lease IPv4 is a **"laziness tax"** — paying a premium for inertia
@@ -141,17 +141,21 @@ li, blockquote, p { font-size: 0.9em; }
 
 ## Global Adoption Is Already Underway
 
+<style scoped>
+li, blockquote, p { font-size: 0.9em; }
+</style>
+
 - Global: **~44%** IPv6-capable (APNIC Labs) / **~51%** of Google traffic over IPv6
 - India: **~76%** — the world's largest IPv6 deployment, driven by Reliance Jio
 - France: **~86%**; Germany: **~73%** — European leaders
 - USA: **~62%** IPv6-capable across all traffic
 - Australia: **~48%**; New Zealand: **~33%** — both with room to grow
 - Pacific Islands: domestic operators at an early stage — a **first domestic-mover opportunity**
-- Without policy intervention, universal adoption is projected for the **mid-2040s** (APNIC Labs trend; Huston, "The IPv6 transition", APNIC Blog, Oct 2024)
+- Without policy intervention, universal adoption is projected for the **mid-2040s**
 
 > Waiting for the market to force the transition means waiting two decades.
 
-<small>_Source: APNIC Labs, 30 days to 2026-10-18. Google IPv6 statistics: 51% (checked 2026-10-19)._</small>
+<small>_Sources: APNIC Labs, 30 days to 2026-10-18; Google IPv6 statistics 51% (2026-10-19); mid-2040s: Huston, "The IPv6 transition", APNIC Blog, Oct 2024._</small>
 
 ---
 
