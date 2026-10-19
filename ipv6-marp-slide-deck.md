@@ -663,14 +663,6 @@ Staff readiness | Transition mechanism selection
 
 ---
 
-<!-- _header: "" -->
-<!-- _footer: "" -->
-<!-- _paginate: false -->
-
-![bg](images/training_hubs.png)
-
----
-
 ## Knowledge Sharing Best Practices
 
 - Internal community of practice
