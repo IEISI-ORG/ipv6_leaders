@@ -723,6 +723,24 @@ Staff readiness | Transition mechanism selection
 
 ---
 
+## Credits and Sources
+
+<style scoped> li { font-size: 0.75em; } p { font-size: 0.7em; } </style>
+
+- APNIC Labs measurements — stats.labs.apnic.net (screenshots reproduced with attribution)
+- Google IPv6 statistics — google.com/intl/en/ipv6/statistics.html
+- Geoff Huston, APNIC — RIR IPv4 exhaustion projection (CC BY-SA)
+- IETF RFC 7381 — Enterprise IPv6 Deployment Guidelines
+- Infoblox IPv6 CoE — "The First Steps in IPv6 Adoption: Having a Plan"
+- APNIC Blog — "The realities of building an IPv6-only city" (2024)
+- MDPI Applied System Innovation 3(1):4 — rural IPv6 case study
+- Internet Society Pulse — "Why IPv6 Adoption Is Stalled" (2025)
+- Theme: academic (kaisugi, MIT)
+
+Screenshots are reproduced for commentary; their copyright remains with the sources. This deck's CC BY-NC-SA licence covers IEISI's own content.
+
+---
+
 # Thank You!
 
 ## Questions and Discussion
