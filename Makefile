@@ -5,7 +5,8 @@ CHROMIUM = chromium 2>/dev/null \
 	--window-size=1920,1080 \
 	--hide-scrollbars \
 	--run-all-compositor-stages-before-draw \
-	--virtual-time-budget=10000
+	--virtual-time-budget=10000 \
+	--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 
 CAPTURES = captures
 
@@ -50,11 +51,11 @@ images:
 	$(CHROMIUM) --screenshot="$(CAPTURES)/apnic_ipv6_city.png" https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/
 	$(CHROMIUM) --screenshot="$(CAPTURES)/apnic_ipv6_rural.png" 'https://www.mdpi.com/2571-5577/3/1/4?type=check_update&version=1'
 	$(CHROMIUM) --screenshot="$(CAPTURES)/rfc7381.png" https://datatracker.ietf.org/doc/html/rfc7381
-	$(CHROMIUM) --screenshot="$(CAPTURES)/having_a_plan.png" https://blogs.infoblox.com/ipv6-coe/the-first-steps-in-ipv6-adoption-having-a-plan/
+	$(CHROMIUM) --screenshot="$(CAPTURES)/having_a_plan.png" https://www.infoblox.com/blog/ipv6-coe/the-first-steps-in-ipv6-adoption-having-a-plan/
 	$(CHROMIUM) --screenshot="$(CAPTURES)/google.png" https://www.google.com/intl/en/ipv6/statistics.html
 	$(CHROMIUM) --screenshot="$(CAPTURES)/google2.png" 'https://www.google.com/intl/en/ipv6/statistics.html#tab=per-country-ipv6-adoption'
-	convert $(CAPTURES)/apnic_labs_ipv6_polynesia.png -crop 1025x575 $(CAPTURES)/apnic_labs_ipv6_polynesia.jpg
-	convert $(CAPTURES)/apnic_labs_ipv6_world.png -crop 1025x575 $(CAPTURES)/apnic_labs_ipv6_world.jpg
+	convert $(CAPTURES)/apnic_labs_ipv6_polynesia.png -crop 1025x575+0+0 +repage $(CAPTURES)/apnic_labs_ipv6_polynesia.jpg
+	convert $(CAPTURES)/apnic_labs_ipv6_world.png -crop 1025x575+0+0 +repage $(CAPTURES)/apnic_labs_ipv6_world.jpg
 
 # ── Clean ─────────────────────────────────────────────────────────────────────
 

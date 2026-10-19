@@ -238,11 +238,11 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 ---
 ## stats.labs.apnic.net/ipv6 — World
-![h:380](captures/apnic_labs_ipv6_world-0.jpg)
+![h:380](captures/apnic_labs_ipv6_world.jpg)
 
 ---
 ## stats.labs.apnic.net/ipv6/QS — Polynesia
-![h:380](captures/apnic_labs_ipv6_polynesia-0.jpg)
+![h:380](captures/apnic_labs_ipv6_polynesia.jpg)
 
 ---
 
