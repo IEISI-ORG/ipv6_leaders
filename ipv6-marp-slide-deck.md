@@ -225,8 +225,8 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 ## Global and Regional Adoption Trends
 
-- Current global IPv6 adoption: **~43%** capable (APNIC Labs, March 2026)
-- Leading countries: India (~78%), France (~86%), Germany (~74%), USA (~59%)
+- Current global IPv6 adoption: **~44%** capable (APNIC Labs, October 2026)
+- Leading countries: India (~76%), France (~86%), Germany (~73%), USA (~62%)
 - Leading regions: South Asia, Europe, North America
 - Mobile networks driving much of the adoption (Reliance Jio: India's leap)
 - Pacific Islands: early stage — first-mover opportunity

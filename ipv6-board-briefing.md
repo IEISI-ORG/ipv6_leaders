@@ -138,17 +138,17 @@ li, blockquote, p { font-size: 0.9em; }
 
 ## Global Adoption Is Already Underway
 
-- Global: **~43%** IPv6-capable (APNIC Labs) / **~47%** of Google traffic over IPv6
-- India: **~78%** — the world's largest IPv6 deployment, driven by Reliance Jio
-- France: **~86%**; Germany: **~74%** — European leaders
-- USA: **~59%** IPv6-capable across all traffic
-- Australia: **~44%**; New Zealand: **~30%** — both with room to grow
+- Global: **~44%** IPv6-capable (APNIC Labs) / **~51%** of Google traffic over IPv6
+- India: **~76%** — the world's largest IPv6 deployment, driven by Reliance Jio
+- France: **~86%**; Germany: **~73%** — European leaders
+- USA: **~62%** IPv6-capable across all traffic
+- Australia: **~48%**; New Zealand: **~33%** — both with room to grow
 - Pacific Islands: early stage — a **first-mover opportunity**
 - Without policy intervention, universal adoption is projected for the **mid-2040s**
 
 > Waiting for the market to force the transition means waiting two decades.
 
-<small>_Source: APNIC Labs, 2 March – 31 March 2026 (926.8M samples). Last updated: April 2026._</small>
+<small>_Source: APNIC Labs, 30 days to 2026-10-18. Google IPv6 statistics: 51% (checked 2026-10-19)._</small>
 
 ---
 
