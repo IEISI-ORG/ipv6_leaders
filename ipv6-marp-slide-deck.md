@@ -531,16 +531,10 @@ Staff readiness | Transition mechanism selection
 
 ## Transition Mechanisms
 
-- Dual-stack implementation
-- Tunneling approaches:
-  - 6to4, 6in4, 6rd
-  - DS-Lite, MAP-T/MAP-E
-- Translation mechanisms:
-  - NAT64/DNS64
-- Selection criteria:
-  - Environment constraints
-  - Performance requirements
-  - Support and security
+- **Dual-stack** — run both; the common first step, not the destination
+- **IPv6-mostly** — IPv6 by default, IPv4 only for devices that ask (RFC 8925)
+- **IPv6-only with translation** — NAT64/DNS64 and 464XLAT for legacy IPv4 services
+- Selection criteria: what your users' devices support, what your vendors support, how you will retire IPv4
 
 <!-- [IMAGE PLACEHOLDER: Transition mechanisms comparison] -->
 
