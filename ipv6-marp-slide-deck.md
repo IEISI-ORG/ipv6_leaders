@@ -27,7 +27,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 # Workshop Agenda (1)
 
-### Session One (11:45 AM - 1:15 PM)
+### Session One (90 minutes)
 - IPv6 Basics in Business Terms
 - Business Case for IPv6 Adoption
 - Security Considerations
@@ -39,7 +39,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 # Workshop Agenda (2)
 
-### Session Two (2:00 PM - 3:30 PM)
+### Session Two (90 minutes)
 - Adoption Barriers and Solutions
 - IPv6 Address Planning
 - Deployment Planning
