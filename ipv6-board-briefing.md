@@ -145,7 +145,7 @@ li, blockquote, p { font-size: 0.9em; }
 - USA: **~62%** IPv6-capable across all traffic
 - Australia: **~48%**; New Zealand: **~33%** — both with room to grow
 - Pacific Islands: domestic operators at an early stage — a **first domestic-mover opportunity**
-- Without policy intervention, universal adoption is projected for the **mid-2040s**
+- Without policy intervention, universal adoption is projected for the **mid-2040s** (APNIC Labs trend; Huston, "The IPv6 transition", APNIC Blog, Oct 2024)
 
 > Waiting for the market to force the transition means waiting two decades.
 
@@ -269,7 +269,7 @@ li, p, blockquote { font-size: 0.8em; }
 
 > "The question isn't whether people understand the need for IPv6. It's whether we've made IPv6 deployment the natural, obvious, easy choice."
 
-<small>_Source: Internet Society Pulse, September 2025 — [Why IPv6 Adoption Is Stalled](https://pulse.internetsociety.org/en/blog/2025/09/why-ipv6-adoption-is-stalled-the-behavioral-science-behind-internet-infrastructure-change/)_</small>
+<small>_Source: Internet Society Pulse, September 2025 — [Why IPv6 Adoption Is Stalled](https://pulse.internetsociety.org/en/blog/2025/09/why-ipv6-adoption-is-stalled-the-behavioral-science-behind-internet-infrastructure-change/); primary: Albarracín et al., Nature Reviews Psychology, 2024_</small>
 
 ---
 
