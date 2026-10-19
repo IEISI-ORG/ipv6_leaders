@@ -149,7 +149,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 <small>_Source: [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
 
 ---
-![](captures/apnic_labs_reliance_jio.png)
+![h:460](captures/apnic_labs_reliance_jio.png)
 
 ---
 
@@ -257,11 +257,11 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 ---
 https://www.google.com/intl/en/ipv6/statistics.html
-![](captures/google.png)
+![h:420](captures/google.png)
 
 ---
 https://www.google.com/intl/en/ipv6/statistics.html
-![](captures/google2.png)
+![h:420](captures/google2.png)
 
 ---
 
@@ -316,8 +316,7 @@ https://www.google.com/intl/en/ipv6/statistics.html
 ![h:420](captures/apnic_ipv6_rural.png)
 
 ---
-![](captures/apnic_ipv6_city.png)
-<!-- [IMAGE PLACEHOLDER: Smart city implementation using IPv6] -->
+![h:460](captures/apnic_ipv6_city.png)
 
 ---
 
@@ -475,10 +474,10 @@ Siloed responsibility | Cross-functional teams
 # Section 9: Evaluating a Deployment Plan
 
 ---
-![](captures/having_a_plan.png)
+![h:460](captures/having_a_plan.png)
 
 ---
-![](captures/rfc7381.png)
+![h:460](captures/rfc7381.png)
 
 ---
 
