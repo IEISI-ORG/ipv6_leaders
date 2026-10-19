@@ -22,7 +22,6 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 ### IPv4 slows down growth. IPv6 enables it.
 
 ---
-![bg right:40%](https://picsum.photos/800?image=1)
 
 # What We Will Cover
 
@@ -213,7 +212,6 @@ li, blockquote, p { font-size: 0.9em; }
 > If your security strategy depends on NAT, you do not have a security strategy.
 
 ---
-![bg right:25%](https://picsum.photos/800?image=60)
 
 ## Governance Implication: You Need a Policy
 
@@ -315,7 +313,6 @@ li, strong, blockquote, p { font-size: 0.8em; }
 # Section 5: The Governance Framework
 
 ---
-![bg right:25%](https://picsum.photos/800?image=48)
 
 ## Who Runs the Internet?
 

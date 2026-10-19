@@ -22,7 +22,6 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 ### A Strategic Guide for Decision Makers
 
 ---
-![bg right:40%](https://picsum.photos/720?image=3)
 
 # Workshop Agenda (1)
 
@@ -35,7 +34,6 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Multi-Stakeholder Model and Governance
 
 ---
-![bg right:40%](https://picsum.photos/720?image=7)
 
 # Workshop Agenda (2)
 
