@@ -11,6 +11,8 @@ MARP Slide Deck for IPv6 for Leaders Workshop
 Each slide is designed with appropriate content density
 Image placeholders are included where visuals would enhance the content
 -->
+<!-- _header: "" -->
+
 <style scoped>
 h1, h3 { margin-left: 240px; }
 img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
@@ -19,7 +21,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 <img class="logo" src="images/apac_logo.png">
 
 # IPv6 for Leaders
-### A Strategic Guide for Decision Makers
+### IPv4 slows down growth. IPv6 enables it.
 
 ---
 
@@ -724,5 +726,7 @@ Staff readiness | Transition mechanism selection
 # Thank You!
 
 ## Questions and Discussion
+
+> **IPv4 slows down growth. IPv6 enables it.**
 
 **Contact:** tcs@ieisi.org | www.ieisi.org

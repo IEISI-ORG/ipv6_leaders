@@ -11,6 +11,8 @@ MARP Slide Deck: IPv6 Board & Executive Briefing
 20-minute presentation for senior leaders, board members, and C-suite executives
 Designed for strategic decision-making, not technical deep-dives
 -->
+<!-- _header: "" -->
+
 <style scoped>
 h1, h3 { margin-left: 240px; }
 img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%); width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
