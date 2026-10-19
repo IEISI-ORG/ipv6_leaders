@@ -143,12 +143,33 @@ li, blockquote, p { font-size: 0.9em; }
 - France: **~86%**; Germany: **~73%** — European leaders
 - USA: **~62%** IPv6-capable across all traffic
 - Australia: **~48%**; New Zealand: **~33%** — both with room to grow
-- Pacific Islands: early stage — a **first-mover opportunity**
+- Pacific Islands: domestic operators at an early stage — a **first domestic-mover opportunity**
 - Without policy intervention, universal adoption is projected for the **mid-2040s**
 
 > Waiting for the market to force the transition means waiting two decades.
 
 <small>_Source: APNIC Labs, 30 days to 2026-10-18. Google IPv6 statistics: 51% (checked 2026-10-19)._</small>
+
+---
+
+## Pacific IPv6 Today: Who Is Delivering It?
+
+<style scoped>
+table { font-size: 0.62em; }
+blockquote { font-size: 0.7em; }
+</style>
+
+| Economy | IPv6-capable users | Carried by Starlink | Domestic operators |
+|---|---|---|---|
+| Kiribati, Nauru, Tuvalu | 50–57% | ~100% | 0% |
+| Cook Islands, Samoa, FSM, Vanuatu | 10–41% | ~100% | 0% |
+| Solomon Islands, Marshall Islands | 15–30% | ~96% | SATSOL 9%; others 0% |
+| Tonga | 31% | ~47% | Tonga Communications 29% |
+| PNG | 27% | ~13% | Digitec 52% |
+| Fiji | 41% | ~5% | Vodafone Fiji 61% |
+
+> Starlink delivers IPv6 to your citizens today. Most domestic operators deliver none. Fiji and PNG show it can be done. **IPv4 slows down growth. IPv6 enables it.**
+> <small>_Source: APNIC Labs per-network data, 30 days to 2026-10-18; Starlink = AS14593. Small samples for Vanuatu, Nauru, Tuvalu._</small>
 
 ---
 

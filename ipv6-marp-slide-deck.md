@@ -229,8 +229,29 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Leading countries: India (~76%), France (~86%), Germany (~73%), USA (~62%)
 - Leading regions: South Asia, Europe, North America
 - Mobile networks driving much of the adoption (Reliance Jio: India's leap)
-- Pacific Islands: early stage — first-mover opportunity
+- Pacific Islands: domestic operators at an early stage — a first domestic-mover opportunity
 - Wide variation in enterprise adoption
+
+---
+
+## Pacific IPv6 Today: Who Is Delivering It?
+
+<style scoped>
+table { font-size: 0.62em; }
+blockquote { font-size: 0.7em; }
+</style>
+
+| Economy | IPv6-capable users | Carried by Starlink | Domestic operators |
+|---|---|---|---|
+| Kiribati, Nauru, Tuvalu | 50–57% | ~100% | 0% |
+| Cook Islands, Samoa, FSM, Vanuatu | 10–41% | ~100% | 0% |
+| Solomon Islands, Marshall Islands | 15–30% | ~96% | SATSOL 9%; others 0% |
+| Tonga | 31% | ~47% | Tonga Communications 29% |
+| PNG | 27% | ~13% | Digitec 52% |
+| Fiji | 41% | ~5% | Vodafone Fiji 61% |
+
+> Starlink delivers IPv6 to your citizens today. Most domestic operators deliver none. Fiji and PNG show it can be done. **IPv4 slows down growth. IPv6 enables it.**
+> <small>_Source: APNIC Labs per-network data, 30 days to 2026-10-18; Starlink = AS14593. Small samples for Vanuatu, Nauru, Tuvalu._</small>
 
 ---
 <!-- _header: "" -->
