@@ -219,7 +219,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 
 ---
 ## https://labs.apnic.net/measurements/
-![60%](captures/apnic_labs.png)
+![h:400](captures/apnic_labs.png)
 
 ---
 
@@ -233,16 +233,16 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Wide variation in enterprise adoption
 
 ---
+<!-- _header: "" -->
 ![bg](captures/apnic_labs_ipv6_heatmap.png)
-<p align="right">https://stats.labs.apnic.net/ipv6</p>
 
 ---
-![w:700 h:450](captures/apnic_labs_ipv6_world-0.jpg)
-<p align="right">https://stats.labs.apnic.net/ipv6</p>
+## stats.labs.apnic.net/ipv6 — World
+![h:380](captures/apnic_labs_ipv6_world-0.jpg)
 
 ---
-![w:700 h:450](captures/apnic_labs_ipv6_polynesia-0.jpg)
-<p align="right">https://stats.labs.apnic.net/ipv6/QS</p>
+## stats.labs.apnic.net/ipv6/QS — Polynesia
+![h:380](captures/apnic_labs_ipv6_polynesia-0.jpg)
 
 ---
 
