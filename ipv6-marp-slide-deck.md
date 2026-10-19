@@ -103,8 +103,6 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
   - Direct end-to-end connectivity
   - IP addresses as unlimited resource
 
-<!-- [IMAGE PLACEHOLDER: Visual comparing scarcity vs. abundance approaches to network design] -->
-
 ---
 
 # Section 2: Business Case for IPv6 Adoption
@@ -119,8 +117,6 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 - Simplification of network management
 - Elimination of NAT complexity
 - Direct addressing for security and monitoring
-
-<!-- [IMAGE PLACEHOLDER: Diagram showing digital transformation elements enabled by IPv6] -->
 
 ---
 
@@ -183,8 +179,6 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
 - Data encryption still necessary
 - Monitoring and logging critical
 
-<!-- [IMAGE PLACEHOLDER: Security layers diagram applicable to both IPv4 and IPv6] -->
-
 ---
 
 ## Beyond NAT: Security in an IPv6 World
@@ -196,8 +190,6 @@ Facilitator note: keep technical detail out of this workshop. The audience are m
   - Larger scanning space
   - Extension header inspection
   - Neighbor Discovery Protocol protection
-
-<!-- [IMAGE PLACEHOLDER: IPv6 security architecture diagram] -->
 
 ---
 
@@ -292,8 +284,6 @@ https://www.google.com/intl/en/ipv6/statistics.html
 - Tracking progress over time
 - Using data to inform strategy
 
-<!-- [IMAGE PLACEHOLDER: Benchmark matrix template for organization assessment] -->
-
 ---
 
 # Section 5: IPv6 and Sustainable Development Goals
@@ -313,8 +303,6 @@ https://www.google.com/intl/en/ipv6/statistics.html
   
 - SDG 13: Climate Action
   - More efficient networks
-
-<!-- [IMAGE PLACEHOLDER: Matrix showing IPv6 contributions to SDGs] -->
 
 ---
 
@@ -437,8 +425,6 @@ Competition for IT resources | Integration with refresh cycles
 Legacy system replacement costs | Cost avoidance quantification
 Operational expense concerns | Staged investment approach
 
-<!-- [IMAGE PLACEHOLDER: ROI calculation framework diagram] -->
-
 ---
 
 ## Organizational Change Management
@@ -467,8 +453,6 @@ Siloed responsibility | Cross-functional teams
 - Numbering conventions
 - Readability vs. efficiency
 
-<!-- [IMAGE PLACEHOLDER: Hierarchical address allocation diagram] -->
-
 ---
 
 ## Security by Design in Address Planning
@@ -490,8 +474,6 @@ Siloed responsibility | Cross-functional teams
 - Service-based addressing
 - Growth accommodations
 - Documentation and governance
-
-<!-- [IMAGE PLACEHOLDER: Organization-to-address mapping example] -->
 
 ---
 
@@ -516,8 +498,6 @@ Siloed responsibility | Cross-functional teams
 - Production deployment
 - Monitoring and optimization
 
-<!-- [IMAGE PLACEHOLDER: IPv6 deployment timeline with milestones] -->
-
 ---
 
 ## Risk Management Approaches
@@ -538,8 +518,6 @@ Staff readiness | Transition mechanism selection
 - **IPv6-mostly** — IPv6 by default, IPv4 only for devices that ask (RFC 8925)
 - **IPv6-only with translation** — NAT64/DNS64 and 464XLAT for legacy IPv4 services
 - Selection criteria: what your users' devices support, what your vendors support, how you will retire IPv4
-
-<!-- [IMAGE PLACEHOLDER: Transition mechanisms comparison] -->
 
 ---
 
@@ -564,8 +542,6 @@ Staff readiness | Transition mechanism selection
 - Operational simplification metrics
 - Support incident reduction
 - New capability enablement
-
-<!-- [IMAGE PLACEHOLDER: IPv6 implementation KPI dashboard example] -->
 
 ---
 
@@ -600,8 +576,6 @@ Staff readiness | Transition mechanism selection
 - Business benefits realized
 - Next steps and decisions needed
 
-<!-- [IMAGE PLACEHOLDER: Executive dashboard for IPv6 implementation] -->
-
 ---
 
 # Section 11: Future-Proofing Beyond Basic IPv6 Adoption
@@ -630,8 +604,6 @@ Staff readiness | Transition mechanism selection
 - End-to-end connectivity models
 - Architecture evolution
 
-<!-- [IMAGE PLACEHOLDER: Edge computing with IPv6] -->
-
 ---
 
 ## Strategic Vision for Connected Operations
@@ -642,8 +614,6 @@ Staff readiness | Transition mechanism selection
 - Data-driven operations
 - Customer and partner integration
 - New business models
-
-<!-- [IMAGE PLACEHOLDER: Connected enterprise vision] -->
 
 ---
 
@@ -662,8 +632,6 @@ Staff readiness | Transition mechanism selection
   - Executives
 - Skill assessment
 - Certification pathways
-
-<!-- [IMAGE PLACEHOLDER: IPv6 competency matrix by role] -->
 
 ---
 
@@ -688,8 +656,6 @@ Staff readiness | Transition mechanism selection
 - Implementation documentation
 - Lessons learned repositories
 - Mentoring programs
-
-<!-- [IMAGE PLACEHOLDER: Knowledge sharing model] -->
 
 ---
 

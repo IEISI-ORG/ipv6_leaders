@@ -106,41 +106,6 @@
   - Strategic considerations (purple)
   - Risks/challenges (amber)
 
-### Key Visuals to Develop
-1. **IPv4 vs IPv6 Address Space Visualization** (Section 1)
-   - Visual representation of the size difference
-   - Scarcity vs. abundance mindset illustration
-
-2. **Global IPv6 Adoption Heatmap** (Section 4)
-   - World map showing adoption rates by country
-   - Time-series animation showing growth over time
-
-3. **IPv6 Security Architecture Diagram** (Section 3)
-   - Comparison of IPv4 NAT-based security vs. IPv6 security approaches
-   - Key security control points in an IPv6 network
-
-4. **IPv6 Deployment Timeline Template** (Section 9)
-   - Visual roadmap with key milestones
-   - Decision points and dependencies clearly marked
-   - Resource allocation indicators
-
-5. **Stakeholder Matrix** (Section 6)
-   - Visual representation of the multi-stakeholder model
-   - Key players and their relationships
-
-6. **SDG+IPv6 Impact Matrix** (Section 5)
-   - Grid showing how IPv6 deployment supports specific SDG goals
-   - Case study highlights embedded in the visualization
-
-7. **ROI Calculation Dashboard** (Section 10)
-   - Sample executive dashboard
-   - Key metrics and KPIs for tracking IPv6 deployment success
-   - Before/after comparison visualizations
-
-8. **IPv6 Competency Framework** (Section 12)
-   - Visual representation of skill levels and competency areas
-   - Training pathway visualization
-
 ## Interactive Discussion Details
 
 ### Interactive Discussion #1: "IPv6 Readiness Assessment"
