@@ -613,14 +613,14 @@ Staff readiness | Transition mechanism selection
 
 ## IoT and Massive Scaling
 
-- Projected: 75 billion IoT devices by 2030
+- Tens of billions of connected devices by 2030 — more than IPv4 can ever address
 - Address requirements for direct connectivity
 - Sensor network architectures
 - Edge processing models
 - Security for massive deployments
 - Management at scale
 
-<!-- [IMAGE PLACEHOLDER: IoT growth projection and addressing] -->
+<small>_Source: IoT Analytics, State of IoT Summer 2025 — 21.1 billion connected IoT devices in 2025, 39 billion projected for 2030_</small>
 
 ---
 
