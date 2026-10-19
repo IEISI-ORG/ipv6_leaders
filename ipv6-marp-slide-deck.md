@@ -77,10 +77,10 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Increasing use of workarounds (CGNATs, address sharing)
 - Business impact: increased costs, reduced functionality
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/IPv4_exhaustion_time_line-en.svg/750px-IPv4_exhaustion_time_line-en.svg.png)
-
 ---
-![30%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Huston_rir_ipv4_exhaustion_projection.png/800px-Huston_rir_ipv4_exhaustion_projection.png)
+![h:400](images/huston_rir_exhaustion.png)
+
+<small>_Source: Geoff Huston, APNIC — RIR IPv4 exhaustion projection (CC BY-SA, via Wikimedia Commons)_</small>
 
 ---
 
@@ -152,11 +152,6 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 ![](captures/apnic_labs_reliance_jio.png)
 
 ---
-## The Cost Of IPv4 Addresses
-![](https://www.ipxo.com/app/uploads/2021/10/ipv4-sales-2014-2023-1024x526.png)
-
----
-![bg left:40% h:450 w:450](images/hilco.png)
 
 ## Prices are volatile
 ## Prices are trending downwards
@@ -317,8 +312,8 @@ https://www.google.com/intl/en/ipv6/statistics.html
 - Better Support for Growing Number of Devices
 
 ---
-## https://www.mdpi.com/605136
-![](images/apnic_ipv6_rural_cropped.png)
+## Source: https://www.mdpi.com/2571-5577/3/1/4
+![h:420](captures/apnic_ipv6_rural.png)
 
 ---
 ![](captures/apnic_ipv6_city.png)

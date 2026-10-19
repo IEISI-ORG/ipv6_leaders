@@ -166,8 +166,6 @@ li, blockquote, p { font-size: 0.9em; }
 
 ## Competitive and Strategic Upside
 
-![bg 45% opacity:0.35](https://www.un.org/sites/un2.un.org/files/2020/06/sdg9-en.png)
-
 **Operational efficiency**
 - Simplified network architecture — remove NAT layers
 - Lower long-term address costs
