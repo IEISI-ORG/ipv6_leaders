@@ -87,7 +87,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 ## Key Differences That Matter to Leaders
 
 - Address space: 340 undecillion vs. 4.3 billion addresses
-- Built-in security with IPsec
+- Same security tools apply — firewalls, TLS, IPsec — no protocol is "secure by default"
 - Simplified header structure for better routing efficiency
 - Auto-configuration capabilities
 - Better support for mobile networks
