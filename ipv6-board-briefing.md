@@ -96,7 +96,7 @@ table { font-size: 0.85em; }
 
 ## The Cost of Inaction — Operations
 
-- IPv4 address prices: **$60+ (2022 peak) → ~$20 (2025)** — and still falling
+- IPv4 address prices: **$60+ (2022 peak) → ~$14–25 (October 2026)** — and still falling
 - All major vendors (Cisco, Juniper, Arista, Dell) have shipped IPv6-capable hardware as standard since the mid-2010s — **no additional licensing cost**
 - CGNAT infrastructure costs, complexity, and helpdesk burden remain regardless
 - Continuing to lease IPv4 is a **"laziness tax"** — paying a premium for inertia
@@ -124,15 +124,16 @@ table { font-size: 0.85em; }
 li, blockquote, p { font-size: 0.9em; }
 </style>
 
-- **$60+ (2022) → ~$20 (2025) → below $10 (2026–27) → economically worthless (2028)**
+- **IEISI projection:** $60+ (2022) → ~$20 (2025) → below $10 (2026–27) → economically worthless (2028)
+- **October 2026 actual:** ~$14–25 per address by block size — large blocks ~$14, /24s ~$25 (IPv4.Global prior sales, 9–17 Oct 2026)
 - Bid-ask spread is now unbridgeable — sellers expect $50+, buyers offer $20
 - IPv4 addresses are *technical debt*, not assets — their value was always artificial scarcity, not inherent utility
 - Once substitution costs reach zero, the asset doesn't gradually depreciate — it **crashes to scrap value**
-- Dual-stack operational costs will exceed IPv4 utility by **2028**
+- On current trends, dual-stack operational costs exceed IPv4 utility by **2028**
 
 > This is not a cyclical correction. The IPv4 market has a known end date — and it is close.
 
-<small>_Source: [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
+<small>_Sources: IPv4.Global prior sales, October 2026; [IPv4 Address Sale Price Trends](https://medium.com/@terrysweetser_90287/ipv4-address-sale-price-trends-abf45620d34f) — Terry Sweetser, IEISI_</small>
 
 ---
 
@@ -311,7 +312,7 @@ li, strong, blockquote, p { font-size: 0.8em; }
 - IPv4 dependencies progressively retired; IPv4 becomes the exception
 
 > Dual-stack is a transition, not a destination — plan your exit from the start.
-> By 2028, IPv4 operational costs exceed utility. Organisations not yet on this pathway will be managing a crisis, not a project.
+> On current trends, by 2028 IPv4 operational costs exceed utility. Organisations not yet on this pathway will be managing a crisis, not a project.
 
 ---
 
