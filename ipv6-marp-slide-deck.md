@@ -141,7 +141,7 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 ## The Growth Problem
 
 - IPv4 scarcity as barrier to internet growth
-- IPv4 address prices: **$60+ (2022 peak) → ~$20 (2025)** — and still falling
+- IPv4 address prices: **$60+ (2022 peak) → ~$14–25 (October 2026)** — and still falling
 - Service degradation from address sharing (CGNAT)
 - Early-adopting regions hold vast legacy allocations — late adopters pay the "laziness tax"
 - IPv6 eliminates regional inequity: **IPv4 slows down growth. IPv6 enables it.**
