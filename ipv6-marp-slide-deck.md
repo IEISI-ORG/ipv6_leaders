@@ -383,10 +383,16 @@ li, blockquote { font-size: 0.8em; }
 - **Sovereignty questions** — debates about Internet fragmentation ("splinternet") are active in the IGF
 - **IPv6 is a governance issue, not just a technical one** — who gets addresses, at what cost, under what rules
 - APNIC membership gives your organisation a direct stake in regional policy decisions
+
+> The organisations setting Internet rules are accessible. The question is whether you are at the table.
+
+---
+
+## Get to the Table
+
 - **[PICISOC](https://picisoc.org/)** — Pacific Islands Chapter of the Internet Society — your regional home for Internet governance engagement
 - The **Pacific IGF** runs annually — a regional forum where Pacific voices shape global Internet policy
 
-> The organisations setting Internet rules are accessible. The question is whether you are at the table.
 > **Action: Attend the next Pacific IGF. Register at [picisoc.org](https://picisoc.org/)**
 
 ---
