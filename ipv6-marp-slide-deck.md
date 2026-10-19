@@ -58,14 +58,9 @@ img.logo { position: absolute; left: 40px; top: 50%; transform: translateY(-50%)
 - Enables the continued growth of the Internet
 - Foundation for next-generation applications and services
 
----
-
-> **Facilitator note:** Keep technical detail out of this workshop.
-> Your audience are managers and leaders — not engineers.
-> If participants want to go deeper on protocol mechanics, packet headers, or implementation specifics, point them to the technical training track:
-> **github.com/IEISI-ORG/ipv6_training**
-
-<!-- _class: lead -->
+<!--
+Facilitator note: keep technical detail out of this workshop. The audience are managers and leaders, not engineers. For protocol mechanics, point them to the technical track: github.com/IEISI-ORG/ipv6_training
+-->
 
 ---
 
